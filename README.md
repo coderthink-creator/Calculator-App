@@ -97,3 +97,8 @@ Typing on your physical keyboard highlights the on-screen buttons with a visual 
    # or
    python -m http.server 3000
    ```
+
+
+   <img width="842" height="911" alt="{FC0398E2-779A-4FC2-9EF2-5085A84C8321}" src="https://github.com/user-attachments/assets/008c9fa9-dd5c-433d-83ac-478d77c61ac9" />
+
+
